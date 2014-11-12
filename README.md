@@ -10,6 +10,9 @@ author: ZhaoLion
 =====================
 Start from chapter 5
 
-now have end in chapter 5 excecise 18
+include  those chapter:
+
+Chapter 5 Initialization
+Chapter 8 Polymorphism
 =====================
 
